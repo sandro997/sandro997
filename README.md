@@ -2,7 +2,7 @@
 
 # About Me:
 
-I'm currently learning React<br>Ask me about Fullstack Web development<br>
+<br>Ask me about Fullstack Web development<br>
 
 ## Socials:
 
